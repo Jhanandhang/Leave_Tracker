@@ -8,6 +8,7 @@ class HrleaveApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
